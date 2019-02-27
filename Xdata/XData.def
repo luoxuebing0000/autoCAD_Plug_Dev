@@ -1,0 +1,4 @@
+LIBRARY XData
+EXPORTS
+acrxEntryPoint PRIVATE
+acrxGetApiVersion PRIVATE

@@ -1,0 +1,4 @@
+LIBRARY AcDbDatabaseCode
+EXPORTS
+acrxEntryPoint PRIVATE
+acrxGetApiVersion PRIVATE

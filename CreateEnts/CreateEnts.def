@@ -1,0 +1,5 @@
+LIBRARY CreateEnts
+DESCRIPTION "Create entities in autoCAD 2015"
+EXPORTS
+acrxEntryPoint PRIVATE
+acrxGetApiVersion PRIVATE

@@ -1,0 +1,5 @@
+LIBRARY OperatorLayer
+DISCRIPTION "create operator in autoCAD 2015"
+EXPORTS
+acrxEntryPoint PRIVATE
+acrxGetApiVersion PRIVATE

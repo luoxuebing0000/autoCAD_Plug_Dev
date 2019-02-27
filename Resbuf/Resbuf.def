@@ -1,0 +1,4 @@
+LIBRARY Resbuf
+EXPORTS
+acrxEntryPoint PRIVATE
+acrxGetApiVersion PRIVATE

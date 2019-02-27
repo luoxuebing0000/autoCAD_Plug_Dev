@@ -1,0 +1,5 @@
+LIBRARY CreateBlock
+DISCTRPTION "create blocks in autoCAD 2015"
+EXPORTS
+acrxEntryPoint PRIVATE
+acrxGetApiVersion PRIVATE

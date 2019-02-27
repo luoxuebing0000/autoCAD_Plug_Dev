@@ -1,0 +1,4 @@
+LIBRARY ChangeColor
+EXPORTS
+acrxEntryPoint PRIVATE
+acrxGetApiVersion PRIVATE

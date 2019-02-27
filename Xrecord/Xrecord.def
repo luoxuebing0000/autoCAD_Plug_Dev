@@ -1,0 +1,4 @@
+LIBRARY Xrecord
+EXPORTS
+acrxEntryPoint PRIVATE
+acrxGetApiVersion PRIVATE
